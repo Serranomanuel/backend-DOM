@@ -61,12 +61,12 @@
       "date": "14 de febrero de 2026, 12:08"
     },
     {
-      "id": "a037",
       "userId": "1",
-      "title": "Tarea nueva ",
-      "description": "Tarea creada despues de cambios",
-      "status": "Completada",
-      "date": "20 de febrero de 2026, 22:12"
+      "title": "Lo que quiera",
+      "description": "Manuel Serrano 2026",
+      "status": "Completado",
+      "date": "21 de febrero de 2026, 16:24",
+      "id": "a037"
     }
   ]
 }
