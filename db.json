@@ -53,20 +53,20 @@
   ],
   "tasks": [
     {
-      "id": "27fc",
-      "userId": "1",
-      "title": "Hola Mundo",
-      "description": "Mundo Al revés ",
-      "status": "En Progreso",
-      "date": "14 de febrero de 2026, 12:05"
-    },
-    {
       "id": "4b07",
       "userId": "2",
       "title": "CIMI",
       "description": "Centro Industrial de Mantenimiento Integral (˶ᵔ ᵕ ᵔ˶)\n",
       "status": "Pendiente",
       "date": "14 de febrero de 2026, 12:08"
+    },
+    {
+      "id": "a037",
+      "userId": "1",
+      "title": "Tarea nueva ",
+      "description": "Tarea creada despues de cambios",
+      "status": "Completada",
+      "date": "20 de febrero de 2026, 22:12"
     }
   ]
 }
